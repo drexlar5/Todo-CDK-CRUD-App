@@ -23,7 +23,7 @@
     "@aws-cdk/aws-dynamodb": "*",
     "@aws-cdk/aws-lambda": "*",
     "@aws-cdk/core": "*",
-    "aws-sdk": "^2.711.0",
+    "aws-sdk": "^2.814.0",
     "uuid": "^8.2.0"
   }
 }
